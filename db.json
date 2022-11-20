@@ -1,0 +1,254 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Mac book5",
+      "price": 30000,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda sed",
+      "image": "./images/laptop6.png",
+      "discount": 5,
+      "category": "laptops",
+      "subCategory": "apple"
+    },
+    {
+      "id": 2,
+      "title": "HP omin",
+      "price": 25000,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda sed",
+      "image": "./images/laptop5.png",
+      "discount": 10,
+      "category": "laptops",
+      "subCategory": "hp"
+    },
+    {
+      "id": 3,
+      "title": "DELL G3",
+      "price": 21000,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda sed",
+      "image": "./images/laptop4.png",
+      "discount": 0,
+      "category": "laptops",
+      "subCategory": "dell"
+    },
+    {
+      "id": 4,
+      "title": "ASUS X415",
+      "price": 18000,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda sed",
+      "image": "./images/laptop3.png",
+      "discount": 15,
+      "category": "laptops",
+      "subCategory": "asus"
+    },
+    {
+      "id": 5,
+      "title": "ASUS ROG",
+      "price": 35000,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda sed",
+      "image": "./images/laptop2.png",
+      "discount": 5,
+      "category": "laptops",
+      "subCategory": "asus"
+    },
+    {
+      "id": 6,
+      "title": "Samsung S9",
+      "price": 25000,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda sed",
+      "image": "./images/s9.png",
+      "discount": 35,
+      "category": "mobiles",
+      "subCategory": "samsung"
+    },
+    {
+      "id": 7,
+      "title": "Samsung note9",
+      "price": 35000,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda sed",
+      "image": "./images/note9.png",
+      "discount": 20,
+      "category": "mobiles",
+      "subCategory": "samsung"
+    },
+    {
+      "id": 8,
+      "title": "Samsung note8",
+      "price": 25000,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda sed",
+      "image": "./images/note8.png",
+      "discount": 20,
+      "category": "mobiles",
+      "subCategory": "samsung"
+    },
+    {
+      "id": 9,
+      "title": "Samsung S8",
+      "price": 20000,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda sed",
+      "image": "./images/s8.png",
+      "discount": 5,
+      "category": "mobiles",
+      "subCategory": "samsung"
+    },
+    {
+      "id": 10,
+      "title": "Huawei p30 pro",
+      "price": 28000,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda sed",
+      "image": "./images/p30.png",
+      "discount": 7,
+      "category": "mobiles",
+      "subCategory": "huawei"
+    },
+    {
+      "id": 11,
+      "title": "iphone 13 pro",
+      "price": 30000,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda sed",
+      "image": "./images/iphone.png",
+      "discount": 0,
+      "category": "mobiles",
+      "subCategory": "apple"
+    },
+    {
+      "id": 12,
+      "title": "Nokia",
+      "price": 8000,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda sed",
+      "image": "./images/nokia.png",
+      "discount": 3,
+      "category": "mobiles",
+      "subCategory": "nokia"
+    },
+    {
+      "id": 13,
+      "title": "Sony Xperia",
+      "price": 9000,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda sed",
+      "image": "./images/sony.png",
+      "discount": 5,
+      "category": "mobiles",
+      "subCategory": "sony"
+    },
+    {
+      "id": 14,
+      "title": "Coursair",
+      "price": 1450,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda sed",
+      "image": "./images/headphone1.png",
+      "discount": 0,
+      "category": "accessories",
+      "subCategory": "headphones"
+    },
+    {
+      "id": 15,
+      "title": "Gamestear gear",
+      "price": 2300,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda sed",
+      "image": "./images/headphone2.png",
+      "discount": 5,
+      "category": "accessories",
+      "subCategory": "headphones"
+    },
+    {
+      "id": 16,
+      "title": "RIG 500",
+      "price": 2100,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda sed",
+      "image": "./images/headphone3.png",
+      "discount": 5,
+      "category": "accessories",
+      "subCategory": "headphones"
+    },
+    {
+      "id": 17,
+      "title": "XO headphone",
+      "price": 2000,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda sed",
+      "image": "./images/headphone4.png",
+      "discount": 45,
+      "category": "accessories",
+      "subCategory": "headphones"
+    },
+    {
+      "id": 18,
+      "title": "ASUS headphone",
+      "price": 3000,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda sed",
+      "image": "./images/headphone5.png",
+      "discount": 0,
+      "category": "accessories",
+      "subCategory": "headphones"
+    },
+    {
+      "id": 19,
+      "title": "REDRAGON v1",
+      "price": 800,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda sed",
+      "image": "./images/keyboard1.png",
+      "discount": 0,
+      "category": "accessories",
+      "subCategory": "keyboards"
+    },
+    {
+      "id": 20,
+      "title": "Gamming keyboard",
+      "price": 750,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda sed",
+      "image": "./images/keyboard2.png",
+      "discount": 10,
+      "category": "accessories",
+      "subCategory": "keyboards"
+    },
+    {
+      "id": 21,
+      "title": "REDRAGON v2",
+      "price": 1250,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda sed",
+      "image": "./images/keyboard4.png",
+      "discount": 3,
+      "category": "accessories",
+      "subCategory": "keyboards"
+    },
+    {
+      "id": 22,
+      "title": "ASUS keyboard",
+      "price": 1500,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda sed",
+      "image": "./images/keyboard5.png",
+      "discount": 5,
+      "category": "accessories",
+      "subCategory": "keyboards"
+    },
+    {
+      "id": 23,
+      "title": "ASUS gaming mouse",
+      "price": 900,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda sed",
+      "image": "./images/mouse1.png",
+      "discount": 10,
+      "category": "accessories",
+      "subCategory": "mouses"
+    },
+    {
+      "id": 24,
+      "title": "Grip 300",
+      "price": 1050,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda sed",
+      "image": "./images/mouse2.png",
+      "discount": 0,
+      "category": "accessories",
+      "subCategory": "mouses"
+    },
+    {
+      "id": 25,
+      "title": "XO Gaming mouse",
+      "price": 600,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda sed",
+      "image": "./images/mouse3.png",
+      "discount": 0,
+      "category": "accessories",
+      "subCategory": "mouses"
+    }
+  ]
+}
