@@ -1,0 +1,9 @@
+.cartImg {
+  max-width: 300px;
+  max-height: 200px;
+  object-fit: contain;
+}
+
+.cartLogo {
+  font-size: 100px;
+}

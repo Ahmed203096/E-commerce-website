@@ -1,0 +1,36 @@
+.swiperContainer {
+  height: 80vh;
+  /* overflow: hidden; */
+  position: relative;
+}
+.swiperSlide {
+  height: 80vh;
+  position: relative;
+}
+
+.sliderImg {
+  object-fit: cover;
+  width: 100%;
+  height: 80vh;
+}
+
+.caption {
+  position: absolute;
+  top: 40vh;
+  color: rgb(255, 255, 255);
+  text-shadow: 1px 1px rgb(0, 0, 0);
+  left: 39%;
+}
+
+.btnPosition1 {
+  position: absolute;
+  top: 50vh;
+  left: 45%;
+}
+
+.btn-outline-light {
+  background-color: rgba(0, 0, 0, 0.281) !important;
+}
+.btn-outline-light:hover {
+  background-color: rgba(255, 255, 255) !important;
+}
